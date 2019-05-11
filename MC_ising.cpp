@@ -11,7 +11,7 @@
 #define random(x)(rand()%x)
 #define random_1()(double(random(10000))/10000)
 #define size 60
-#define h -2
+#define h 1
 #define J 1
 using namespace std;
 
